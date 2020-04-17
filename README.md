@@ -1,5 +1,12 @@
-# Apps From Scratch | Flutter Chat UI Starter Repo
+# Flutter Chat UI App
+this an example of chat ui app released with flutter
 
-Clone this repo and follow my YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+## Screen Shots
 
-[Complete Chat UI](https://github.com/MarcusNg/flutter_chat_ui)
+<img src="https://github.com/Djameleddine21/Flutter-chat-App/blob/master/assets/home.jpg" alt="home page" height="500" width="350">
+<img src="https://github.com/Djameleddine21/Flutter-chat-App/blob/master/assets/chat.jpg" alt="chat page" height="500" width="350">
+
+### UI link
+
+inspired from dribbbe : (https://dribbble.com/shots/6428387-Messenger-Mobile-Concept)[https://dribbble.com/shots/6428387-Messenger-Mobile-Concept]
+
