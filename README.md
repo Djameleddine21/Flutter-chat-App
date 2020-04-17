@@ -8,5 +8,5 @@ this an example of chat ui app released with flutter
 
 ### UI link
 
-inspired from dribbbe : (https://dribbble.com/shots/6428387-Messenger-Mobile-Concept)[https://dribbble.com/shots/6428387-Messenger-Mobile-Concept]
+inspired from dribbbe : [https://dribbble.com/shots/6428387-Messenger-Mobile-Concept](https://dribbble.com/shots/6428387-Messenger-Mobile-Concept)
 
